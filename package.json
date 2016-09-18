@@ -1,0 +1,31 @@
+{
+  "name": "h0m3",
+  "version": "1.0.0",
+  "description": "Where is your home child?!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cagataycali/h0m3.git"
+  },
+  "keywords": [
+    "home",
+    "mac",
+    "os",
+    "linux",
+    "home",
+    "dir"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/h0m3/issues"
+  },
+  "homepage": "https://github.com/cagataycali/h0m3#readme",
+  "dependencies": {
+    "3x3c": "^1.0.2",
+    "async": "^2.0.1"
+  }
+}

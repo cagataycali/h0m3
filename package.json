@@ -26,6 +26,6 @@
   "homepage": "https://github.com/cagataycali/h0m3#readme",
   "dependencies": {
     "3x3c": "^1.0.2",
-    "async": "^2.0.1"
+    "async": "^3.2.2"
   }
 }
